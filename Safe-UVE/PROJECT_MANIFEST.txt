@@ -1,0 +1,5 @@
+Safe-UVE fixed prototype.
+Python syntax validation: passed.
+Offline unit tests: 5/5 passed.
+Included emergency_vehicle.pt supplied by the user for a turnkey demo.
+Key fix: class-name normalization now correctly recognizes emergency_vehicle while excluding non_emergency_vehicle.
